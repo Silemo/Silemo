@@ -69,8 +69,8 @@
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/SonnyOof)
 [![Steam](https://img.shields.io/badge/steam%20-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/sonnynick/)
 [![Battle.net](https://img.shields.io/badge/Sonny%232807%20-%2300AEFF.svg?&style=for-the-badge&logo=battle.net&logoColor=white)](https://www.blizzard.com/en-us/)
-
-
+-->
+<!--
 ## Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
