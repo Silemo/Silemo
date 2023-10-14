@@ -1,7 +1,7 @@
 # 🐞 Hi devs!   
 
 ## About me 
- My name is Giovanni, but you can call me Silemo. I’m 22 and I’m currently studying for my **MSc double degree in Data Science at Politecnico di Milano and KTH (Stockholm)**. As you can see from my profile picture, I'm a big fan of Doctor Who but also other tv shows such as Sherlock or Peaky Blinders. I read lots of historical novel, mainly by Ken Follet but also from other authors. 
+ My name is Giovanni, but you can call me Silemo. I’m 23 years old and I’m currently studying for my **MSc double degree in Data Science at Politecnico di Milano and KTH (Stockholm)**. As you can see from my profile picture, I'm a big fan of Doctor Who but also other tv shows such as Sherlock or Peaky Blinders. I read lots of historical novel, mainly by Ken Follet but also from other authors. 
 
 ## General Purpose Programming Languages
 
