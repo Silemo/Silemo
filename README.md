@@ -1,13 +1,34 @@
 # 🐞 Hi devs!   
 
 ## About me 
- My name is Giovanni, but you can call me Silemo. I’m 25 years old and I’m currently studying for my **MSc double degree in Data Science at Politecnico di Milano and KTH (Stockholm)**. As you can see from my profile picture, I'm a big fan of Doctor Who but also other tv shows such as Sherlock or Peaky Blinders. I read lots of historical novel, mainly by Ken Follet but also from other authors. 
+ My name is Giovanni, but you can call me Silemo. I’m 25 years old and I’m currently working as **Trainee at the European Medicines Agency** in the area of Data Management and Integration. As you can see from my profile picture, I'm a big fan of Doctor Who but also other tv shows such as Sherlock or Peaky Blinders. I read lots of historical novel, mainly by Ken Follet but also from other authors. I like playing video games, especially past GOTY on my Steam Deck.
+
+**Reach out if:**
+- You find my profile interesting and have a work opportunity that might be interesting for me
+- You see advice/mentorship as you are interested in what I achieved and you would like to do the same
+- You would just like to know me, as we have something in common
+- We have nothing in common and this is why you think we might benefit from a chat together
 
 ## General Purpose Programming Languages
 
 ![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+
+## Cloud platforms and data infrastructure
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+
+## Infrastructure, CI/CD and Orchestration
+
+![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![AirFlow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+
 
 ## Web - Programming Language
 
@@ -21,14 +42,6 @@
 ![Laravel](https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB")
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
-
-## Data bases
-
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
-
-## Development environment
-
-![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
 
 <!-- 
 ## CRMs
